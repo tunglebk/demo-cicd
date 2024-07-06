@@ -1,2 +1,2 @@
 # demo-cicd
-test
+demo text

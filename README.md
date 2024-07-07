@@ -7,3 +7,4 @@ back to main 1
 nhanh B
 B1
 back to nhanhB
+finished rebase branch nhanhB to main
